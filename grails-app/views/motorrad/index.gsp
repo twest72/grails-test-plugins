@@ -1,4 +1,5 @@
 <!DOCTYPE HTML>
+<!-- Vorlage aus http://www.script-tutorials.com/creating-nice-clean-html-css-website-layout-3-dark-theme/ -->
 <%@page import="org.compass.core.util.ClassUtils"%>
 <html>
 	<head>
